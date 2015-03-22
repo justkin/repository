@@ -13,5 +13,9 @@ public class Other
 		/**
 		 * test git commit -a
 		 */
+		
+		/**
+		 * test push
+		 */
 	}
 }
