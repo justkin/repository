@@ -7,7 +7,7 @@ public class Other
 		System.out.println("test untracked file");
 		
 		/**
-		 * make some changes
+		 * make some changes and commit
 		 */
 	}
 }
