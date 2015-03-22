@@ -9,5 +9,9 @@ public class Other
 		/**
 		 * make some changes and commit
 		 */
+		
+		/**
+		 * test git commit -a
+		 */
 	}
 }
